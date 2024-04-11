@@ -1,4 +1,4 @@
-# README -- AMLS_assignment_kit_23-24
+# README -- AMLS_assignment_23-24/23093558
 The chosen challenge is "Kuzushiji Recognition" from Kaggle. <br>
 This challenge is released 4 years ago and has nearly 300 teams participate in it. <br>
 This challenge is solved by using Pytorch to build a Convolutional Neural Netwokr (CNN).<br>
